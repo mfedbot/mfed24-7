@@ -19,7 +19,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'ching') {
-    	message.channel.send('CHONG!');
+    	message.channel.send('冲!');
   	}
 });
 
