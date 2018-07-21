@@ -30,7 +30,7 @@ client.on('message', message => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ching') {
+    if (message.content === 'chong') {
     	message.channel.send('not gonna say it nigga');
   	}
 });
