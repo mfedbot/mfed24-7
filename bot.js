@@ -31,7 +31,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'chong') {
-    	message.channel.send('not gonna say it nigga');
+    	message.channel.send('not gonna say it ni**a');
   	}
 });
 
