@@ -31,9 +31,9 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'chong') {
-    	message.channel.send('not gonna say it ni**a');
+    	message.reply('not gonna say it nigga!');
   	}
-});
+}); 
 
 // THIS  MUST  BE  THIS  WAY
 client.login(process.env.BOT_TOKEN);
