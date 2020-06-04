@@ -31,9 +31,8 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'chong') {
-    	message.reply('not gonna say it nigga!');
+    	message.reply('not gonna say it ni*ga!');
   	}
 }); 
 
-// THIS  MUST  BE  THIS  WAY
 client.login(process.env.BOT_TOKEN);
