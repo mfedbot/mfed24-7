@@ -1,2 +1,1 @@
-# mfed24-7
-Mfed Bot that online 24/7
+# DEVi The Discord Bot
